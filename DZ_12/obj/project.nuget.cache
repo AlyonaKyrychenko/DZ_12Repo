@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V0fgHQPJgPRzNlypY2SYTqlJM75xDUvU+0Zkbaes0G38rv2Ktvol8CBzuZcna6gzGFKCaKeX28ZnET8oAGfU4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Суннива\\source\\repos\\ALevelDZ\\DZ_12Repo\\DZ_12\\DZ_12\\DZ_12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Суннива\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
